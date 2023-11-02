@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ConsDemo</string>
+    <string name="login">Login</string>
+    <string name="description">description</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="loginn">Login</string>
+    <string name="continue_with_google">Continue With Google</string>
+    <string name="continue_with_apple">Continue With Apple</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="or_login_with">OR LOGIN WITH</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="login1">login1</string>
+</resources>
