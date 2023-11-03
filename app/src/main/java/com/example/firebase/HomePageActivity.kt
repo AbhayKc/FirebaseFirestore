@@ -87,9 +87,8 @@ class HomePageActivity : AppCompatActivity() {
                 .addOnFailureListener { e ->
                     Toast.makeText(this, "Error: $e", Toast.LENGTH_SHORT).show()
                 }
+           }
         }
-    }
-
     private fun signOutAndStartSignInActivity() {
         auth.signOut()
 
